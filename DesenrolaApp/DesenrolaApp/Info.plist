@@ -34,7 +34,7 @@
 					<key>UISceneDelegateClassName</key>
 					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
 					<key>UISceneStoryboardFile</key>
-					<string>Main</string>
+					<string>Initial</string>
 				</dict>
 			</array>
 		</dict>
@@ -44,7 +44,11 @@
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
+<<<<<<< HEAD
 	<string>OnBoarding</string>
+=======
+	<string>Initial</string>
+>>>>>>> 3146a549cde3bc21e53b85a767005b05885666f0
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
